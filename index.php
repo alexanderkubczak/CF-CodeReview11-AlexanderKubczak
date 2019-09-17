@@ -22,8 +22,8 @@
 				   echo "<thead>
 							<tr>
 							<th>id</th>
-							<th>Image></th>
 							<th class='title'>Title</th>
+							<th>Image></th>
 							<th>Author</th>
 							<th>ISBN</th>
 							<th>Releasedate</th>
